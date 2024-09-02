@@ -10,6 +10,13 @@ A comprehensive pet care application built with React Native and Expo, designed 
 - **Notifications**: Timely reminders for all pet care tasks, powered by Expo's notification system.
 - **Offline Storage**: All data is stored locally using Async-Storage, allowing access even when offline.
 
+## Showcase
+![homepage](https://i.ibb.co/VDmyp6p/Main-Frame.png)
+
+![healthpage](https://i.ibb.co/4m88ZrN/Main-Frame-2.png)
+
+![profilepage](https://i.ibb.co/5hZCJxp/Main-Frame-3.png)
+
 ## Technologies Used
 
 - **Expo**: A framework and platform for universal React applications, which allows for easy setup and development.
