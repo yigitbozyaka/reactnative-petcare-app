@@ -11,11 +11,12 @@ A comprehensive pet care application built with React Native and Expo, designed 
 - **Offline Storage**: All data is stored locally using Async-Storage, allowing access even when offline.
 
 ## Showcase
-![homepage](https://i.ibb.co/VDmyp6p/Main-Frame.png)
+![https://i.ibb.co/VDmyp6p/Main-Frame.png](https://i.ibb.co/VDmyp6p/Main-Frame.png)
 
-![healthpage](https://i.ibb.co/4m88ZrN/Main-Frame-2.png)
+![https://i.ibb.co/4m88ZrN/Main-Frame-2.png](https://i.ibb.co/4m88ZrN/Main-Frame-2.png)
 
-![profilepage](https://i.ibb.co/5hZCJxp/Main-Frame-3.png)
+![https://i.ibb.co/5hZCJxp/Main-Frame-3.png](https://i.ibb.co/5hZCJxp/Main-Frame-3.png)
+
 
 ## Technologies Used
 
